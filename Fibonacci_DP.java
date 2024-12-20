@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Factorial_DP{
+public class Fibonacci_DP{
     public static int fibo(int n,int f[]){
         if(n==0 || n==1){
             return n;
